@@ -1,4 +1,4 @@
-👋 Hey there! I'm Miri Marmorshtein, a passionate software developer with hands-on experience in real-time systems, **AI integration**, and **scalable software solutions**.  
+👋 Hey there! I'm Miri Marmorsten, a passionate software developer with hands-on experience in real-time systems, **AI integration**, and **scalable software solutions**.  
 
 🚀 **What drives me?** Turning complex problems into elegant, efficient solutions. With a solid background in a wide range of technologies—**C++**, **C#**, **Python**, **React**, **Node.js**, **MongoDB**, and **SQL**—I bring versatility and creativity to every project I tackle.  
 
